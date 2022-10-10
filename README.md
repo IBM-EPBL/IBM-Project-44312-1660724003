@@ -1,6 +1,7 @@
 # IBM-Project-44312-1660724003
 
 Personal Assistance for Seniors Who Are Self-Reliant ✨
+![image](https://user-images.githubusercontent.com/100562754/194927759-e64147a4-9763-4635-a50d-ab7116ac29b8.png)
 
 🔮 DOMAIN:
               Internet Of Things(IOT)📟
