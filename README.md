@@ -1,24 +1,25 @@
 # IBM-Project-44312-1660724003
 
-Personal Assistance for Seniors Who Are Self-Reliant
+Personal Assistance for Seniors Who Are Self-Reliant ✨
 
-TEAM NAME: 
-              TheCodersCrew
+🔮 DOMAIN:
+              Internet Of Things(IOT)📟
 
-TEAM MEMBERS:
+👩🏻‍🏭TEAM NAME:
+              TheCodersCrew 🌠
 
-              1)Sharitha.G      -TEAM LEADER
+🧿 TEAM MEMBERS:
+
+              👨‍💻1)Sharitha.G      -TEAM LEADER
               
-              2)Haritha.G       -TEAM MEMBER [1]
+              👨‍💻2)Haritha.G       -TEAM MEMBER [1]
               
-              3)Archana.B       -TEAM MEMBER [2]
+              👨‍💻3)Archana.B       -TEAM MEMBER [2]
               
-              4)Kesavarthini.c  -TEAM MEMBER [3]
+              👨‍💻4)Kesavarthini.c  -TEAM MEMBER [3]
               
               
-COLLEGE NAME:
+🎓 COLLEGE NAME:
              A.V.C College Of Engineering,Mayiladuthurai.
             
            
-         
-      
