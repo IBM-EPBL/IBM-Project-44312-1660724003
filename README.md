@@ -16,9 +16,9 @@ Personal Assistance for Seniors Who Are Self-Reliant ✨
 
               👨‍💻1)Sharitha.G      -TEAM LEADER
               
-              👨‍💻2)Haritha.G       -TEAM MEMBER [1]
+              👨‍💻2)Archana.B       -TEAM MEMBER [1]
               
-              👨‍💻3)Archana.B       -TEAM MEMBER [2]
+              👨‍💻3)Haritha.G       -TEAM MEMBER [2]
               
               👨‍💻4)Kesavarthini.c  -TEAM MEMBER [3]
               
