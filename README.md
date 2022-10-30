@@ -2,8 +2,9 @@
 
 Personal Assistance for Seniors Who Are Self-Reliant ✨
 
-
- ![image](https://user-images.githubusercontent.com/113124063/195619725-f2d81840-499d-4be7-a93c-002176a9c6d2.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113124063/195619725-f2d81840-499d-4be7-a93c-002176a9c6d2.png">
+</p>
 
 🔮 DOMAIN:
               Internet Of Things(IOT)📟
