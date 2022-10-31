@@ -108,9 +108,6 @@ ul, ol {
 </head>
 <body>
 <div class="nav">
-     <div class="logo">
-         <img src="logo.png" alt="logo" width="50px" height="78px" >
-     </div>
      <div class="center">
          <span>MedicineReminderSystem</span>
      </div>
@@ -118,8 +115,8 @@ ul, ol {
          <ul>
              <li><a href="#">HOME</a></li>
              <li><a href="#">ABOUTUS</a></li>
-             <li><a href="#">SERVICES</a></li>
-            <button class="btn">Logout</button></a></li>
+             <li><a href="logout.php">
+            <button class="btn">Logout</button></li>
            
          </ul>
      </div>
